@@ -15,7 +15,7 @@ Neste trabalho, desenvolveremos um aplicativo que funcionará como um marketplac
 ## Lista de tarefas
 
 - [x] Definir o escopo do projeto
-- [ ] Realizar a prototipação das telas utilizando Figma
+- [x] Realizar a prototipação das telas utilizando Figma
 - [ ] Definir requisitos de sistema
 - [ ] Criar um diagrama de funcionamento das funcionalidades
 - [ ] Definir quais tecnologias e softwares utilizar durante a criação do projeto
