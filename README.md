@@ -1,4 +1,4 @@
-# Livraria Zébooks
+# Livraria Zebooks
 
 |         Membros da Equipe de Desenvolvimento           |
 |--------------------------------------------------------|
